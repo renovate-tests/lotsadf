@@ -1,0 +1,5 @@
+This is not a docker file even if it contains
+
+FROM node:8.10.0
+
+ha!
